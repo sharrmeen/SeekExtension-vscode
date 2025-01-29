@@ -4,12 +4,12 @@
   "description": "",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.96.0"
+    "vscode": "^1.95.3"
   },
   "categories": [
     "Other"
   ],
-  "activationEvents": ["onCommand:enai.helloWorld"],
+  "activationEvents": [],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
